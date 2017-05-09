@@ -1,3 +1,3 @@
 <?php require 'partials/head.php'; ?>
-	<h1>This is about page</h1>
+	<h1>This is a simple about page</h1>
 <?php require 'partials/footer.php'?>
